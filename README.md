@@ -1,7 +1,7 @@
 # SimpleDL
-###layers
+### layers
 flatten, fully connected, relu, dropout, cross-entropy, softmax
-###optimizers
+### optimizers
 SGD, SGDM, RMSProp, Adam
-###main
+### main
 Train a simple net on Cifar-10
