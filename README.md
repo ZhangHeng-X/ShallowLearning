@@ -11,7 +11,7 @@ Implemented forward and backpropagantion of
 - [x] cross-entropy
 - [ ] RNN
 
-### optimizers
+### Optimizers
 SGD, SGDM, RMSProp, Adam
-### main
+### main.py
 Train a simple net on Cifar-10.
